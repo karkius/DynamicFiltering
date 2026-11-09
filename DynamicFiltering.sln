@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicFiltering", "DynamicFiltering\DynamicFiltering.csproj", "{641FAA6D-790F-43F6-AABB-655B8625B875}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicFilteringTest", "DynamicFilteringTest\DynamicFilteringTest.csproj", "{1F3D801C-CFEA-437E-8475-F73C1F887E7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{641FAA6D-790F-43F6-AABB-655B8625B875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{641FAA6D-790F-43F6-AABB-655B8625B875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{641FAA6D-790F-43F6-AABB-655B8625B875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{641FAA6D-790F-43F6-AABB-655B8625B875}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F3D801C-CFEA-437E-8475-F73C1F887E7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F3D801C-CFEA-437E-8475-F73C1F887E7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F3D801C-CFEA-437E-8475-F73C1F887E7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F3D801C-CFEA-437E-8475-F73C1F887E7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96AC2EED-D3A1-47FE-87B5-A0BF215F8C5F}
+	EndGlobalSection
+EndGlobal
